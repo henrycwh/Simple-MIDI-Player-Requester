@@ -70,8 +70,6 @@ This project is ideal for developers and musicians interested in real-time music
 2. Open **Visual Studio 2022**.
 3. Navigate to the project folder and open the `.sln` file (Solution File).
 
----
-
 ### **2. Configure the MIDI Server**
 Modify the `config.json` file to set your **MIDI request server URL**.
 
@@ -86,16 +84,11 @@ Modify the `config.json` file to set your **MIDI request server URL**.
 ```
 > 🚀 **Ensure your server is running and accessible before proceeding.**
 
----
-
 ### **3. Build the Project**
 Once the configuration is set up:
 - Open **Visual Studio**.
 - Go to **Build → Build Solution (Ctrl + Shift + B)**.
 - Ensure there are no errors before proceeding.
-
----
-
 ### **4. Running the Application**
 1. **Launch the MIDI Player Application** from Visual Studio or by running the compiled `.exe`.
 2. **Generate MIDI Files**:
