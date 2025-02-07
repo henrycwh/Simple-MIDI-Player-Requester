@@ -1,6 +1,4 @@
-# Simple MIDI Requester & Player
-
-## Overview
+# 🎵 Simple MIDI Requester & Player
 
 **Simple MIDI Requester & Player** is a lightweight and efficient MIDI music player designed to stream and play MIDI files in real time. It communicates with a **Music Generation Server** via **HTTP requests**, fetching MIDI stream data and playing it instantly on a **Windows application**. This application can also be monitored using **OBS (Open Broadcaster Software)** to stream live music to online platforms.
 
@@ -8,7 +6,7 @@ This project is ideal for developers and musicians interested in real-time music
 
 ---
 
-## Features
+## ✨ Features
 
 ✅ **Real-Time Music Streaming** - Fetches MIDI data from a remote server and plays it instantly.  
 ✅ **Windows Application Support** - Runs smoothly on Windows and integrates with OBS for live streaming.  
@@ -20,32 +18,34 @@ This project is ideal for developers and musicians interested in real-time music
 
 ---
 
-## Technology Stack
+## 🛠 Technology Stack
 
-### **Languages & Frameworks:**
+### **Languages & Frameworks**
 - C# (.NET Framework or .NET Core)
 - Windows Forms / WPF (Windows Presentation Foundation)
 - HTTP Client for API communication
 - MIDI Processing Libraries (e.g., `NAudio` for MIDI playback)
 
-### **Networking & Streaming:**
+### **Networking & Streaming**
 - HTTP Requests to fetch MIDI data
 - OBS Studio for capturing and streaming
 - WebSockets (future enhancement for real-time server push notifications)
 
-### **MIDI & Audio Processing:**
+### **MIDI & Audio Processing**
 - Real-time MIDI parsing and playback
 - Integration with virtual MIDI synthesizers
 - Adjustable latency settings for optimized playback
 
 ---
 
-## How It Works
+## 🚀 How It Works
 
 1. **Client requests a MIDI file** - The Windows app sends an HTTP request to the Music Generation Server.
 2. **Server responds with a MIDI stream** - The MIDI file is retrieved and processed.
 3. **App plays the MIDI file in real-time** - Using a built-in MIDI player or external synthesizer.
 4. **OBS captures the app’s output** - Users can stream the live performance to platforms like YouTube or Twitch.
+
+---
 
 ### **Workflow Diagram**
 ```
@@ -145,6 +145,4 @@ This project is licensed under the **MIT License**. Feel free to modify and dist
 ---
 
 ## Contact
-
-📧 **Email:** [yourname@example.com](mailto:yourname@example.com)  
-🌐 **GitHub:** [yourusername](https://github.com/yourusername)
+📧 **Email:** [chw2001801@gmail.com](mailto:chw2001801@gmail.com)  
