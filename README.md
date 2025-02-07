@@ -64,7 +64,7 @@ This project is ideal for developers and musicians interested in real-time music
 ### **1. Open the Solution File in Visual Studio**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/SimpleMIDIPlayer.git
+   git clone https://github.com/henrycwh/Simple-MIDI-Player-Requester.git
    cd SimpleMIDIPlayer
    ```
 2. Open **Visual Studio 2022**.
