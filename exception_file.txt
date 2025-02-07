@@ -1,0 +1,6 @@
+﻿網路問題An error occurred: 通訊端操作無法連線到主機。 [::ffff:140.116.86.242]:28001 (140.116.86.242:28001)
+網路問題An error occurred: Unable to read beyond the end of the stream.
+File does not exist.
+File does not exist.
+
+Time: 2024/2/20 下午 09:06:03error: File does not exist.
